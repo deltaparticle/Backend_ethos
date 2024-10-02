@@ -1,0 +1,18 @@
+/* src/styles.css */
+body {
+    font-family: Arial, sans-serif;
+}
+
+form {
+    margin: 20px;
+}
+
+label {
+    display: block;
+    margin: 10px 0 5px;
+}
+
+button {
+    margin-top: 10px;
+}
+

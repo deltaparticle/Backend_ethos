@@ -1,0 +1,8 @@
+# subgraph/schema.graphql
+type Rating @entity {
+  id: ID!
+  professor: Bytes!
+  knowledge: BigInt!
+  teachingStyle: BigInt!
+}
+

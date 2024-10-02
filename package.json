@@ -1,0 +1,19 @@
+{
+  "name": "professor-rating-dapp",
+  "version": "1.0.0",
+  "description": "Decentralized Professor Rating System",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "body-parser": "^1.19.0",
+    "web3": "^1.5.0"
+  },
+  "devDependencies": {
+    "truffle": "^5.4.29"
+  },
+  "author": "",
+  "license": "MIT"
+}
