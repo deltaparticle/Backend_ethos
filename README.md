@@ -17,19 +17,23 @@ Follow these steps to run the backend locally:
 
 ### Steps to Access the Backend
 
-1. **Navigate to the Server Folder**:
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/deltaparticle/Backend_ethos
+   ```
+2. **Navigate to the Server Folder**:
    ```bash
    cd server
    ```
-2. **Start the Node.js Server**:
+3. **Start the Node.js Server**:
    ```bash
    node server.js
    ```
-3. **Navigate to the Main Project Folder**:
+4. **Navigate to the Main Project Folder**:
    ```bash
    cd ..
    ```
-4. **Start the Project**:
+5. **Start the Project**:
    ```bash
    npm start
    ```
